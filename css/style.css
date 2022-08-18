@@ -1,0 +1,41 @@
+header{
+    background: linear-gradient(rgba(40, 37, 37, 0.265) ,rgba(24, 22, 22, 0.347)),url(../images/header.jpg);
+    background-position: center;
+    background-size: cover;
+    min-height: 100vh;
+    padding-top: 150px;
+
+}
+section{
+    margin-top: 40px;
+}
+/*style=" width: 70%;margin: auto; display: block;height: 70%;"*/
+.card{
+    align-items: center;
+    display: grid;
+}
+.contact{
+    
+    
+    min-height: 90vh;
+    padding-top: 104px;
+    
+
+} 
+
+footer{
+    padding: 30px;
+    background-color: #044392;
+    
+}
+footer p{
+    text-align: center;
+    color: antiquewhite;
+    margin-top: 30px;
+}
+.social-nav{
+    float: right;
+    list-style: none;
+    margin-top: 60px;
+    }
+    
